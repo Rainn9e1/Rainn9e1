@@ -3,6 +3,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=Rainn9e1&theme=github-dark&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainn9e1&layout=compact&theme=dark&hide_border=true&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&bg_color=0,0E1117,0E1117)
+
 ![](https://komarev.com/ghpvc/?username=Rainn9e1&color=39D353)
 
 # Languages

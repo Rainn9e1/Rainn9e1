@@ -9,10 +9,10 @@
 
 # Languages
 ![](https://img.shields.io/badge/-Lua-0d1117?style=flat&logo=lua)
-![](https://img.shields.io/badge/-C++-0d1117?style=flat&logo=html)
+![](https://img.shields.io/badge/-Html-0d1117?style=flat&logo=html)
 ![](https://img.shields.io/badge/-JavaScript-0d1117?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python)
-![](https://img.shields.io/badge/-C++-0d1117?style=flat&logo=css)
+![](https://img.shields.io/badge/-CSS-0d1117?style=flat&logo=css)
 
 # Discord
 ![](https://discord.c99.nl/widget/theme-3/822157253708087336.png)

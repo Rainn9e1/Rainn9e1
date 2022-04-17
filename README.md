@@ -3,7 +3,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=Rainn9e1&theme=github-dark&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=Mahfuj-Mustafa&color=39D353)
+![](https://komarev.com/ghpvc/?username=Rainn9e1&color=39D353)
 
 # Languages
 ![](https://img.shields.io/badge/-Lua-0d1117?style=flat&logo=lua)

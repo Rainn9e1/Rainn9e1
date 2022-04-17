@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuj-Mustafa&layout=compact&theme=dark&hide_border=true&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&bg_color=0,0E1117,0E1117)
 
-![](https://komarev.com/ghpvc/?username=0zBug&color=39D353)
+![](https://komarev.com/ghpvc/?username=Mahfuj-Mustafa&color=39D353)
 
 # Languages
 ![](https://img.shields.io/badge/-Lua-0d1117?style=flat&logo=lua)
